@@ -2,7 +2,7 @@
 Landing page for fictional weather mobile app  
 
 See live version here: 
-[Link](http://serwer.iksel.com.pl/ftp/landing_page_%232/)  
+[Link](http://serwer.iksel.com.pl/ftp/cloudss)  
 
 Used in this project:  
 -HTML 5 and CSS3  
