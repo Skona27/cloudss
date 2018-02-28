@@ -1,4 +1,10 @@
-# landing_page-2
-Simple landing page in html, using bootstrap 4, and custom styling
+# cloudss  
+Landing page for fictional weather mobile app  
 
-[Live Version](http://serwer.iksel.com.pl/ftp/landing_page_%232/)
+See live version here: 
+[Link](http://serwer.iksel.com.pl/ftp/landing_page_%232/)  
+
+Used in this project:  
+-HTML 5 and CSS3  
+-Bootstrap 4  
+-CSS animations 
